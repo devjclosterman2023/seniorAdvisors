@@ -1,0 +1,11 @@
+[21-Oct-2023 12:24:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 4683-b64Íý¶59¢74ÂVæ89¦qdf3|i6<`aÈú6e-4a4o-4;83-‚64m-n‰ab54gh63RhÁgfCsÉ¬=0bS6c-4aœh-46H3-b64c f69b<ïÿ†6<9fqgDs¹?10bX06h-4a?dÝ68ƒ-b24“MfÐ2Bu4¢6æ59Myd¶Cwf610d806o-Û`<d=Â>85-bê4Ó-f99bõ>Äf6ByfTÖCC)6!Ö2?À3b() in /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php:81
+Stack trace:
+#0 /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php(97): ue9(Array, Array)
+#1 {main}
+  thrown in /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php on line 81
+[22-Oct-2023 00:27:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function 1¶¦„68Î-¢6„c-É:‰iE4‘f689fow¨410²¨0=¤-5Û¡dý„6•t-a87c() in /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php:81
+Stack trace:
+#0 /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php(97): ue9(Array, Array)
+#1 {main}
+  thrown in /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php on line 81
+[23-Oct-2023 08:32:58 America/Chicago] PHP Fatal error:  Cannot redeclare ii8() (previously declared in /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php:51) in /home5/webmo/public_html/senioradvisors.web-mo.com/wp-content/plugins/mobile-menu/includes/plugin-settings/style.php on line 51
